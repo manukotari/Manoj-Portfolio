@@ -18,14 +18,6 @@ This is a responsive portfolio site created with ReactJS and plain CSS that impl
 The icons from this project can be found in the *Feather* or *Heroicon* sections of the [React-Icons](https://react-icons.github.io/react-icons/) library. 
 
 
-## Slider Component
-`npm i swiper`
-
-The slider component of the testimonial section is imported from [SwiperJS](https://swiperjs.com/react) and also utlizes their pagination module.
-
-![Screenshot](./src/assets/swiperjs.png)
-
-
 ## Email Component
 `npm install @emailjs/browser --save`
 
